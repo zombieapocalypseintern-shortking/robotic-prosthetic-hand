@@ -13,7 +13,18 @@ Two configurations are supported:
 | **Wired** | Direct flex sensor → Arduino → Servo connection (included code) |
 | **Wireless** | NRF 2.4GHz transmitter/receiver pair for remote operation |
 
----
+## images/videos
+
+<img width="1599" height="722" alt="WhatsApp Image 2026-05-26 at 9 12 53 PM (1)" src="https://github.com/user-attachments/assets/a80ca3cd-5122-45d8-a9ad-4f0e6bc6178b" />
+<img width="722" height="1599" alt="WhatsApp Image 2026-05-26 at 9 12 53 PM" src="https://github.com/user-attachments/assets/5b0e1eb9-09ff-49b4-ac59-7b69e918b305" />
+
+https://github.com/user-attachments/assets/14f002f2-9833-4b17-a101-523b07bd2e68
+
+
+
+https://github.com/user-attachments/assets/278ec46d-460a-46ab-a117-5d6abe657836
+
+
 
 ## 🔧 Hardware Components
 
@@ -126,6 +137,7 @@ servo1.write(servo1_pos);
                                      │
                                     GND
 ```
+you can refer the attached image of circuit for easy understanding
 
 ### Servo to Arduino
 
@@ -221,10 +233,5 @@ All STL files are in the `3d-files/` folder. Recommended print settings:
 
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-## 🙏 Credits
-
-Original concept inspired by [Viral Science](https://www.youtube.com/c/viralscience). 3D models and wiring design adapted for this build.
+## License
+This project is licensed under the MIT License.
